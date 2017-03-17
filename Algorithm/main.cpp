@@ -26,7 +26,7 @@ namespace BP {
     }
 }
 
-namespace     myNum{
+namespace myNum{
     int p = 105;
 }
 using namespace BP;
